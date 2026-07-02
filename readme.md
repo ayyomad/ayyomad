@@ -1,7 +1,7 @@
-# Sreemadhav S
+## Sreemadhav S
 Backend Engineer
 
 ## Tech Stack
-`Python` `C`  `Django`  `HTML / CSS`  
+`Python` `C`  `Django`  `HTML / CSS`  `Java`
 
 ---
