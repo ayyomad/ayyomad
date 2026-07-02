@@ -1,13 +1,7 @@
 # Sreemadhav S
-
-Learning Python Django.  
-B.Tech CSE student | Music & Tech enthusiast
-
----
-
+Backend Engineer
 
 ## Tech Stack
-
 `Python` `C`  `Django`  `HTML / CSS`  
 
 ---
