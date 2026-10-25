@@ -2,6 +2,6 @@
 Backend Engineer
 
 ## Tech Stack
-`Python` `C`  `Django`  `HTML / CSS`  `Java`
+`Python` `C`  `Django`  `HTML / CSS`
 
 ---
